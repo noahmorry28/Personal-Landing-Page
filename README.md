@@ -1,2 +1,2 @@
-## In Progress
-# Skeletal outline
+# In Progress
+## Skeletal outline
